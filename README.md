@@ -1,16 +1,17 @@
-## Hi there 👋
+# 自我介绍
 
-<!--
-**suling53/suling53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 昵称
+- suling53
 
-Here are some ideas to get you started:
+## 兴趣爱好
+- 阅读
+- 写作
+- 音乐
+- 编程
+- 探索新科技
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 掌握的技能
+- 数据分析
+- 机器学习基础
+- 编程（Python, JavaScript,django）
+```
